@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tableau temp files
+*.twb~
+*.tds~
+.tableau/
+
+# Excel / CSV raw data (if large)
+*.xlsx
+*.csv
+
+# Python / Jupyter if used for EDA
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
