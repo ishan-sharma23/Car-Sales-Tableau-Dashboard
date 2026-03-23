@@ -84,13 +84,6 @@ car-sales-dashboard/
 
 ---
 
-## 🙋 Author
-
-**Your Name**  
-Data Analyst | [LinkedIn](https://linkedin.com/in/yourprofile) | [Tableau Public](https://public.tableau.com/profile/yourprofile)
-
----
-
 ## 📄 License
 
 This project is for educational and portfolio purposes.
